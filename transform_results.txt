@@ -17,7 +17,7 @@ accuracy = 99 %
 Accuracy of    24 : 100 %
 
 *********************************
-rotate:
+flip:
 training: loss =  8.799490505829453  accuracy = 99 %
 
 testing: 
